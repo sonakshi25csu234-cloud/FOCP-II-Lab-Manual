@@ -1,0 +1,4 @@
+ float r, pi=3.14;
+    cout<<"Enter radius: ";
+    cin>>r;
+    cout<<"Area is: "<<pi*r*r;
